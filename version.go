@@ -7,7 +7,7 @@ import (
 
 // DefaultRuntimeVersion is the exact BAML native runtime required by this Go
 // module. The release planner stamps it alongside every other SDK version.
-const DefaultRuntimeVersion = "0.15.1-nightly.20260723.e"
+const DefaultRuntimeVersion = "0.15.1-nightly.20260723.f"
 
 const goModulePath = "github.com/boundaryml/baml-go"
 
